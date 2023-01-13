@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 100vw;
+    height: 100vh;
+
+    font-family: monospace;
+}
+
+#roulette {
+    padding: 10px;
+    border: 5px solid black;
+    background: orange;
+
+    width: 200px;
+    height: 50px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 5px 5px black;
+}
+
+.label {
+    font-size: 15px;
+}
+
